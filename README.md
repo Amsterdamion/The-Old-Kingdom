@@ -10,7 +10,23 @@
 <p>The Old Kingdom is a hardcore immersion overhaul that reshapes Skyrim into a slower, harsher, and more deliberate RPG experience inspired by Morrowind and Oblivion. There are three things to remember in the Old Kingdom. Have fun, fear the dark, and do not go unprepared into the night...</p>
 
 ## Features
-`Insert features here`
+- Classic RPG progression – Experience, Skyrim Unleveled, Lower Starting Skills, and Biggie Traits replace Skyrim’s power curve with slow, deliberate character growth.
+
+- Lethal, modernized combat – Valhalla Combat, Precision, SCAR, Locational Damage, and TK Dodge create stamina-driven, positional fights where mistakes are fatal.
+
+- Low-magic, high-cost spellcasting – Spell Research, Mysticism, Odin, Apocalypse, and Wintersun make magic learned, earned, and philosophically grounded.
+
+- Harsh survival & world pressure – Starfrost, Survival Mode Improved, Septims Have Weight, and Realistic Baggage enforce planning, scarcity, and risk.
+
+- Reactive enemies and factions – Lawless, Smart NPC Potions, True Faction System, and AI Overhaul ensure enemies fight intelligently and factions feel distinct.
+
+- Grounded economy overhaul – The Gilded Road, C.O.I.N., Dynamic Pricing Framework, and Economy Overhaul and Speechcraft Improvements curb gold inflation and exploit loops.
+
+- Old-world visual grit – Sentinel, Immersive Armors, extensive PBR retextures, and Community Shaders deliver worn, medieval realism over fantasy gloss.
+
+- Immersive starts and roleplay focus – Alternate Perspective, Why I Came to Skyrim, and Roleplaying in Skyrim systems emphasize identity over destiny.
+
+- Semi-Deleveled, dangerous exploration – Encounter Zones Unlocked, Dungeons – Revisited, and creature overhauls make the world hostile regardless of player level.
 
 ## Installation
 ### Requirements
