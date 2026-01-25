@@ -7,7 +7,7 @@
 <p align="center">Welcome to The Old Kingdom! Please read this README in its entirety before playing the list.</p>
 
 ## Preamble
-`The Old Kingdom is a hardcore immersion overhaul that reshapes Skyrim into a slower, harsher, and more deliberate RPG experience inspired by Morrowind and Oblivion. There are three things to remember in the Old Kingdom. Have fun, fear the dark, and do not go unprepared into the night...`
+The Old Kingdom is a hardcore immersion overhaul that reshapes Skyrim into a slower, harsher, and more deliberate RPG experience inspired by Morrowind and Oblivion. There are three things to remember in the Old Kingdom. Have fun, fear the dark, and do not go unprepared into the night...
 
 ## Features
 `Insert features here`
