@@ -4,7 +4,7 @@
     <a href="https://loadorderlibrary.com/lists/borealis-4">Load Order Library</a> |
     <a href="https://discord.com/invite/r4YnyqGBBA">Discord</a>
 </div>
-<p align="center">Welcome to The Old Kingdom, a Wabbajack modlist! Please read this README in its entirety before playing the list.</p>
+<p align="center">Welcome to The Old Kingdom! Please read this README in its entirety before playing the list.</p>
 
 ## Preamble
 `Insert description here`
