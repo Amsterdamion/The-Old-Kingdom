@@ -9,6 +9,8 @@
 ## Preamble
 <p>The Old Kingdom is a hardcore immersion overhaul that reshapes Skyrim into a slower, harsher, and more deliberate RPG experience inspired by Morrowind and Oblivion. There are three things to remember in the Old Kingdom. Have fun, fear the dark, and do not go unprepared into the night...</p>
 
+> Do not go gentle into that good night.<br>Rage, rage against the dying of the light.<br><br>– Dylan Thomas, "Do Not Go Gentle into That Good Night"
+
 ## Features
 - Classic RPG progression – Experience, Skyrim Unleveled, Lower Starting Skills, and Biggie Traits replace Skyrim’s power curve with slow, deliberate character growth.
 
