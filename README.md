@@ -7,7 +7,7 @@
 <p align="center">Welcome to The Old Kingdom, a Wabbajack modlist! Please read this README in its entirety before playing the list.</p>
 
 ## Preamble
-<p>Borealis is a performant, vanilla+ visual overhaul for Skyrim Special Edition. It features enhanced NPCs, lighting, effects, landscapes, and flora while staying true to the vanilla aethestics. Upscaled vanilla textures form the backbone of this modlist, with choice texture and model replacements as necessary. The modlist features quality-of-life gameplay enhancements, such as diagonal movement and Fallout 4-style quickloot menus, but the vanilla gameplay otherwise remains untouched. This modlist is perfect for a first playthrough, or to build your own modlist on top of.</p>
+`Insert description here`
 
 ## Features
 `Insert features here`
@@ -36,8 +36,8 @@ These requirements assume that you aren't using [CS Upscaling](https://www.nexus
 ### Wabbajack
 - Download [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) and extract it somewhere that's not a Windows-protected directory (i.e. Downloads, Documents, or Program Files)
 - Run Wabbajack.exe
-- Tick "show non featured Lists"
-- Search for Borealis and click on it
+- Tick "show non featured lists"
+- Search for The Old Kingdom and click on it
 - Press install
 
 ### Post-installation
