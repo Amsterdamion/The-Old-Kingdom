@@ -12,13 +12,13 @@
 > Do not go gentle into that good night.<br>Rage, rage against the dying of the light.<br><br>– Dylan Thomas, "Do Not Go Gentle into That Good Night"
 
 ## Features
-- Classic RPG progression – Experience, Skyrim Unleveled, Lower Starting Skills, and Biggie Traits replace Skyrim’s power curve with slow, deliberate character growth.
+- Classic RPG progression – Character Creation Overhaul, Experience, Skyrim Unleveled, Lower Starting Skills, and Biggie Traits replace Skyrim’s power curve with slow, deliberate character growth.
 
-- Lethal, modernized combat – Valhalla Combat, Precision, SCAR, Locational Damage, and TK Dodge create stamina-driven, positional fights where mistakes are fatal.
+- Lethal, modernized combat – StancesNG, Valhalla Combat, Precision, SCAR, Locational Damage, and TK Dodge create stamina-driven, positional fights where mistakes are fatal.
 
-- Low-magic, high-cost spellcasting – Spell Research, Mysticism, Odin, Apocalypse, and Wintersun make magic learned, earned, and philosophically grounded.
+- Low-magic, high-cost spellcasting – Low Magic Skyrim, Spell Research, Mysticism, Odin, Apocalypse, and Wintersun make magic learned, earned, and philosophically grounded.
 
-- Harsh survival & world pressure – Starfrost, Survival Mode Improved, Septims Have Weight, and Realistic Baggage enforce planning, scarcity, and risk.
+- Harsh survival & world pressure – Starfrost, Survival Mode Improved, Septims Have Weight, and Realistic Baggage enforce planning, scarcity, and risk. 
 
 - Reactive enemies and factions – Lawless, Smart NPC Potions, True Faction System, and AI Overhaul ensure enemies fight intelligently and factions feel distinct.
 
@@ -26,7 +26,7 @@
 
 - Old-world visual grit – Sentinel, Immersive Armors, extensive PBR retextures, and Community Shaders deliver worn, medieval realism over fantasy gloss.
 
-- Immersive starts and roleplay focus – Alternate Perspective, Why I Came to Skyrim, and Roleplaying in Skyrim systems emphasize identity over destiny.
+- Immersive starts and roleplay focus – Alternate Perspective, Why I Came to Skyrim, and Roleplaying in Skyrim systems emphasize identity over the destiny of the Dragonborn.
 
 - Semi-Deleveled, dangerous exploration – Encounter Zones Unlocked, Dungeons – Revisited, and creature overhauls make the world hostile regardless of player level.
 
