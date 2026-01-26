@@ -1,4 +1,4 @@
-![Banner](https://github.com/crispyfires/the-old-kingdom/blob/main/TOK_Logo.png)
+![Banner](https://github.com/Amsterdamion/The-Old-Kingdom/blob/main/TOK_Logo.png)
 <div align="center">
     <a href="https://www.nexusmods.com/skyrimspecialedition/mods/165653">Nexus</a> |
     <a href="https://loadorderlibrary.com/lists/borealis-4">Load Order Library</a> |
